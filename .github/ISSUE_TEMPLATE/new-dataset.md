@@ -2,7 +2,7 @@
 name: New Dataset
 about: Issue template for a new SOOSmap Dataset Item
 author: Michaela Miller
-title: New Dataset: [DATASET TITLE]
+title: New Dataset - [DATASET TITLE]
 labels: new-dataset
 ---
 
