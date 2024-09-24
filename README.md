@@ -26,6 +26,7 @@ Sometimes things go wrong! We are a small team, doing our best, and need the hel
 5. Submit the issue, and our team will review and address it.
 
 ## Suggesting a New Dataset
+SOOSmap is open to suggestions for what data are most important for the Southern Ocean Community to host! Feedback and requests are encouraged, so if there are data you would like us to host, please follow these steps:
 1. Go to the [Issues tab](https://github.com/soosmap/soosmap-public/issues).
 2. Select New Issue.
 3. Choose the New Dataset template.
