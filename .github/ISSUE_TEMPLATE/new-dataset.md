@@ -43,7 +43,7 @@ We apply [GCMD Keywords](https://vocabs.ardc.edu.au/viewById/238) to our dataset
 Choose from the following for how we should categorise these data: `Data from ships`, `Glider and AUV`, `Marine life`, `Profilers (ARGO)`, `Drifting Buoys`, `Fixed Platform`, `Models and remote sensing`, `Other`
 
 # SOOSmap Key Variables
-Choose from the following for which key variables should be visualised on SOOSmap (you can choose more than one): `Temperature`, `Salinity`, `CO2`, `BGC`, `Biology`, `Plastic`, `Sea Level`, `Wave`, `Wind and Meteo`, `Ice`, `Other`
+Choose from the following for which key variables should be visualised on SOOSmap (you can choose more than one, and recommend a new one if none are applicable): `Temperature`, `Salinity`, `CO2`, `BGC`, `Biology`, `Plastic`, `Sea Level`, `Wave`, `Wind and Meteo`, `Ice`. 
 
 # Update Frequency
 How often are the data being updated from the source? Please choose from the following: `Near real-time`, `Daily`, `Weekly`, `Monthly`, `< Yearly`, `≥ Yearly`, `Never`
